@@ -3,7 +3,7 @@
 [![CircleCI](https://circleci.com/gh/facebookresearch/pytorch3d.svg?style=svg)](https://circleci.com/gh/facebookresearch/pytorch3d)
 [![Anaconda-Server Badge](https://anaconda.org/pytorch3d/pytorch3d/badges/version.svg)](https://anaconda.org/pytorch3d/pytorch3d)
 
-# Modified from Pytorch3d, thanks to their efforts! https://github.com/facebookresearch/pytorch3d?tab=License-1-ov-file
+# Modified from [Pytorch3d](https://github.com/facebookresearch/pytorch3d?tab=License-1-ov-file), thanks to their efforts!
 # Introduction
 
 PyTorch3D provides efficient, reusable components for 3D Computer Vision research with [PyTorch](https://pytorch.org).
